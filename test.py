@@ -35,4 +35,4 @@ except KeyboardInterrupt:
 finally:
     # Close Kafka consumer
     consumer.close()
-#test2
+#test3
